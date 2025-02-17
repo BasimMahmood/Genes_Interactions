@@ -1,0 +1,182 @@
+Source,Target,Type,Id,Label,timeset,Weight,Disease,spanningtree
+3,5,Undirected,1,D77,,3,Usher syndrome,0
+14,1,Undirected,2,D54,,4,Nonsyndromic deafness,0
+14,19,Undirected,3,D20,,2,Congenital hypothyroidism,0
+14,21,Undirected,4,D54,,2,Nonsyndromic deafness,0
+1,21,Undirected,5,D65,,5,prostate cancer,0
+1,19,Undirected,6,D56,,6,Oligodendroglioma,0
+19,21,Undirected,7,D3,,1,Amyotrophic lateral sclerosis,1
+2,9,Undirected,8,D63,,4,Primary hyperoxaluria,0
+2,21,Undirected,9,D54,,2,Nonsyndromic deafness,0
+2,22,Undirected,10,D78,,2,Waardenburg syndrome,0
+9,21,Undirected,11,D54,,2,Nonsyndromic deafness,0
+9,22,Undirected,12,D3,,1,Amyotrophic lateral sclerosis,0
+21,22,Undirected,13,D26,,2,Ewing sarcoma,0
+16,5,Undirected,14,D4,,1,Attention deficit hyperactivity,0
+3,11,Undirected,15,D77,,7,Usher syndrome,0
+3,16,Undirected,16,D5,,1,Autism,1
+3,2,Undirected,17,D78,,5,Waardenburg syndrome,0
+11,2,Undirected,18,D54,,2,Nonsyndromic deafness,0
+11,16,Undirected,19,D28,,2,Familial Mediterranean fever (FMF),0
+16,2,Undirected,20,D73,,2,Synesthesia,0
+16,4,Undirected,21,D6,,1,Autosomal dominant polycystic kidney,0
+1,5,Undirected,22,D77,,7,Usher syndrome,0
+1,8,Undirected,23,D15,,3,Congenital hypothyroidism,0
+1,11,Undirected,24,D77,,7,Usher syndrome,0
+1,12,Undirected,25,D72,,5,Stickler syndrome,0
+1,13,Undirected,26,D54,,3,Nonsyndromic deafness,0
+1,17,Undirected,27,D77,,7,Usher syndrome,0
+5,8,Undirected,28,D50,,3,Myelodysplastic syndrome,0
+5,11,Undirected,29,D77,,3,Usher syndrome,0
+5,12,Undirected,30,D58,,2,Parkinson,0
+5,13,Undirected,31,D7,,1,Bipolar disorder,0
+5,17,Undirected,32,D77,,4,Usher syndrome,0
+8,11,Undirected,33,D37,,3,Hereditary multiple exostoses,0
+8,12,Undirected,34,D68,,2,Schizophrenia,0
+8,13,Undirected,35,D78,,3,Waardenburg syndrome,0
+8,17,Undirected,36,D67,,3,Sanfilippo syndrome,0
+11,12,Undirected,37,D54,,3,Nonsyndromic deafness,0
+11,13,Undirected,38,D54,,4,Nonsyndromic deafness,0
+11,17,Undirected,39,D77,,7,Usher syndrome,0
+12,13,Undirected,40,D68,,4,Schizophrenia,0
+12,17,Undirected,41,D54,,3,Nonsyndromic deafness,0
+13,17,Undirected,42,D54,,6,Nonsyndromic deafness,0
+4,11,Undirected,43,D74,,5,Tetrahydrobiopterin deficiency,0
+4,13,Undirected,44,D54,,4,Nonsyndromic deafness,0
+4,17,Undirected,45,D54,,3,Nonsyndromic deafness,0
+1,15,Undirected,51,D54,,2,Nonsyndromic deafness,0
+1,22,Undirected,53,D9,,1,Breast cancer,0
+1,3,Undirected,54,D77,,6,Usher syndrome,0
+11,15,Undirected,56,D54,,2,Nonsyndromic deafness,0
+11,22,Undirected,58,D47,,2,Methemoglobinemia,0
+13,3,Undirected,60,D78,,4,Waardenburg syndrome,0
+13,15,Undirected,61,D54,,2,Nonsyndromic deafness,0
+13,22,Undirected,63,D78,,3,Waardenburg syndrome,0
+15,17,Undirected,64,D54,,2,Nonsyndromic deafness,0
+15,22,Undirected,65,D9,,1,Breast cancer,0
+15,3,Undirected,66,D54,,2,Nonsyndromic deafness,0
+17,3,Undirected,67,D77,,4,Usher syndrome,0
+17,22,Undirected,68,D52,,3,Neurofibromatosis type 2,0
+22,3,Undirected,69,D78,,2,Waardenburg syndrome,0
+8,14,Undirected,70,D20,,2,Congenital hypothyroidism,0
+21,3,Undirected,72,D66,,3,Romano–Ward syndrome,0
+3,7,Undirected,73,D66,,5,Romano–Ward syndrome,0
+3,8,Undirected,74,D78,,2,Waardenburg syndrome,0
+3,10,Undirected,75,D77,,4,Usher syndrome,0
+3,19,Undirected,78,D70,,3,Spinocerebellar ataxia,0
+8,10,Undirected,82,D59,,2,Pfeiffer syndrome,0
+8,19,Undirected,85,D20,,2,Congenital hypothyroidism,0
+8,7,Undirected,88,D68,,3,Schizophrenia,0
+10,11,Undirected,89,D77,,6,Usher syndrome,0
+10,17,Undirected,90,D77,,3,Usher syndrome,0
+10,19,Undirected,91,D14,,1,Charcot–Marie–Tooth disease,1
+10,5,Undirected,92,D77,,3,Usher syndrome,0
+10,7,Undirected,93,D54,,2,Nonsyndromic deafness,0
+10,1,Undirected,94,D77,,4,Usher syndrome,0
+11,19,Undirected,96,D14,,1,Charcot–Marie–Tooth disease,1
+11,7,Undirected,98,D66,,4,Romano–Ward syndrome,0
+17,19,Undirected,100,D14,,1,Charcot–Marie–Tooth disease,1
+17,7,Undirected,103,D57,,5,Osteogenesis imperfecta,0
+19,7,Undirected,104,D45,,3,Maple syrup urine disease,0
+19,5,Undirected,106,D14,,1,Charcot–Marie–Tooth disease,1
+5,7,Undirected,108,D50,,3,Myelodysplastic syndrome,0
+1,7,Undirected,109,D54,,5,Nonsyndromic deafness,0
+1,2,Undirected,130,D54,,4,Nonsyndromic deafness,0
+6,12,Undirected,129,D72,,5,Stickler syndrome,0
+1,6,Undirected,127,D72,,8,Stickler syndrome,0
+9,7,Undirected,125,D54,,3,Nonsyndromic deafness,0
+2,8,Undirected,134,D78,,2,Waardenburg syndrome,0
+2,14,Undirected,135,D69,,3,Sensenbrenner syndrome,0
+2,19,Undirected,136,D34,,2,Hemochromatosis,0
+3,6,Undirected,142,D70,,3,Spinocerebellar ataxia,0
+1,9,Undirected,144,D61,,4,porphyria,0
+5,9,Undirected,149,D24,,1,Ehlers-Danlos syndrome,0
+5,6,Undirected,150,D58,,2,Parkinson,0
+5,2,Undirected,151,D24,,1,Ehlers-Danlos syndrome,0
+9,6,Undirected,154,D61,,2,porphyria,0
+9,17,Undirected,157,D55,,5,Obsessive–compulsive,0
+6,2,Undirected,158,D34,,2,Hemochromatosis,0
+6,7,Undirected,159,D68,,4,Schizophrenia,0
+6,17,Undirected,160,D24,,1,Ehlers-Danlos syndrome,0
+2,7,Undirected,161,D54,,4,Nonsyndromic deafness,0
+2,17,Undirected,162,D54,,3,Nonsyndromic deafness,0
+6,21,Undirected,164,D58,,2,Parkinson,0
+2,4,Undirected,168,D54,,2,Nonsyndromic deafness,0
+10,9,Undirected,174,D61,,3,porphyria,0
+6,19,Undirected,183,D70,,3,Spinocerebellar ataxia,0
+6,8,Undirected,185,D68,,2,Schizophrenia,0
+9,12,Undirected,186,D54,,2,Nonsyndromic deafness,0
+9,18,Undirected,187,D61,,2,porphyria,0
+12,18,Undirected,188,D36,,1,Hereditary hemorrhagic telangiectasia,0
+10,4,Undirected,191,D79,,4,Wolfram syndrome,0
+10,13,Undirected,192,D54,,2,Nonsyndromic deafness,0
+5,21,Undirected,196,D58,,2,Parkinson,0
+11,21,Undirected,198,D66,,3,Romano–Ward syndrome,0
+24,23,Undirected,199,D80,,2,XX male syndrome,1
+20,12,Undirected,207,D46,,1,Maturity onset diabetes of the young,0
+20,7,Undirected,208,D46,,1,Maturity onset diabetes of the young,0
+20,13,Undirected,209,D78,,2,Waardenburg syndrome,0
+20,17,Undirected,210,D46,,1,Maturity onset diabetes of the young,0
+20,2,Undirected,211,D78,,2,Waardenburg syndrome,0
+12,7,Undirected,212,D68,,3,Schizophrenia,0
+12,2,Undirected,215,D54,,2,Nonsyndromic deafness,0
+7,13,Undirected,216,D68,,3,Schizophrenia,0
+13,2,Undirected,220,D78,,3,Waardenburg syndrome,0
+22,4,Undirected,223,D47,,1,Methemoglobinemia,0
+22,6,Undirected,224,D68,,2,Schizophrenia,0
+22,12,Undirected,225,D68,,2,Schizophrenia,0
+11,6,Undirected,227,D61,,2,porphyria,0
+4,6,Undirected,229,D60,,3,Polycystic kidney disease,0
+4,12,Undirected,230,D58,,3,Parkinson,0
+3,4,Undirected,232,D66,,3,Romano–Ward syndrome,0
+4,7,Undirected,234,D66,,3,Romano–Ward syndrome,0
+14,11,Undirected,241,D74,,3,Tetrahydrobiopterin deficiency,0
+14,18,Undirected,242,D53,,1,Niemann-Pick disease,1
+11,18,Undirected,243,D61,,2,porphyria,0
+1,4,Undirected,246,D58,,2,Parkinson,0
+2,10,Undirected,261,D54,,1,Nonsyndromic deafness,1
+2,15,Undirected,266,D54,,1,Nonsyndromic deafness,1
+3,9,Undirected,270,D61,,2,porphyria,0
+3,12,Undirected,274,D54,,1,Nonsyndromic deafness,1
+3,14,Undirected,276,D69,,2,Sensenbrenner syndrome,0
+4,9,Undirected,281,D54,,1,Nonsyndromic deafness,1
+4,14,Undirected,286,D74,,2,Tetrahydrobiopterin deficiency,0
+4,15,Undirected,287,D54,,1,Nonsyndromic deafness,1
+4,21,Undirected,289,D66,,3,Romano–Ward syndrome,0
+9,11,Undirected,292,D61,,2,porphyria,0
+9,13,Undirected,294,D54,,1,Nonsyndromic deafness,1
+9,14,Undirected,295,D54,,1,Nonsyndromic deafness,1
+9,15,Undirected,296,D54,,1,Nonsyndromic deafness,0
+10,12,Undirected,300,D71,,2,Spondyloepiphyseal dysplasia,0
+10,14,Undirected,302,D74,,2,Tetrahydrobiopterin deficiency,0
+10,15,Undirected,303,D54,,1,Nonsyndromic deafness,0
+10,21,Undirected,305,D54,,1,Nonsyndromic deafness,0
+12,14,Undirected,316,D54,,1,Nonsyndromic deafness,0
+12,15,Undirected,317,D76,,2,Tyrosinemia,0
+12,21,Undirected,319,D58,,2,Parkinson,0
+13,14,Undirected,321,D54,,1,Nonsyndromic deafness,0
+13,21,Undirected,324,D54,,1,Nonsyndromic deafness,0
+14,7,Undirected,325,D54,,1,Nonsyndromic deafness,1
+14,15,Undirected,326,D54,,1,Nonsyndromic deafness,0
+14,17,Undirected,327,D54,,1,Nonsyndromic deafness,0
+15,7,Undirected,329,D54,,1,Nonsyndromic deafness,0
+15,21,Undirected,331,D54,,1,Nonsyndromic deafness,0
+17,21,Undirected,333,D54,,1,Nonsyndromic deafness,0
+21,7,Undirected,334,D66,,2,Romano–Ward syndrome,0
+4,5,Undirected,352,D58,,1,Parkinson,0
+1,18,Undirected,360,D61,,1,porphyria,1
+3,18,Undirected,365,D61,,1,porphyria,1
+6,10,Undirected,367,D61,,1,porphyria,0
+6,18,Undirected,369,D61,,1,porphyria,0
+10,18,Undirected,373,D61,,1,porphyria,0
+6,13,Undirected,392,D68,,1,Schizophrenia,1
+8,22,Undirected,404,D78,,2,Waardenburg syndrome,0
+22,7,Undirected,405,D68,,1,Schizophrenia,1
+10,23,Undirected,413,D71,,1,Spondyloepiphyseal dysplasia,0
+12,23,Undirected,414,D71,,1,Spondyloepiphyseal dysplasia,1
+16,9,Undirected,425,D75,,1,Trisomy,0
+16,23,Undirected,426,D75,,1,Trisomy,0
+9,23,Undirected,427,D75,,1,Trisomy,0
+3,20,Undirected,451,D78,,1,Waardenburg syndrome,1
+8,20,Undirected,454,D78,,1,Waardenburg syndrome,1
+20,22,Undirected,458,D78,,1,Waardenburg syndrome,0
